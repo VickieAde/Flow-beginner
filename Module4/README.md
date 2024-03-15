@@ -4,7 +4,7 @@ In this project, I explained about access control in Cadence Language within cod
 
 ## Author
 
-[Olarinde Olaniyi](https://github.com/Olarinde36)
+[Oloruntoba Adenike](https://github.com/VickieAde)
 
 ## License
 

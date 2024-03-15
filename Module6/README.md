@@ -25,7 +25,7 @@ Follow these steps to utilize this project:
 
 ## Author
 
-This project was developed by [Oloruntoba Adenike](https://github.com/).
+This project was developed by [Oloruntoba Adenike](https://github.com/VickieAde).
 
 ## License
 
